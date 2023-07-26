@@ -20,7 +20,7 @@ import "swiper/css/effect-fade";
 
 const Banner = () => {
   return (
-    <div className="flex md:flex-row justify-between md:space-x-8 space-y-6 xl:px-12 lg:px-8 px-3  flex-col mt-8 ">
+    <div className="flex md:flex-row justify-between md:space-x-8 md:space-y-0 space-y-6 xl:px-12 lg:px-8 px-3  flex-col mt-8 ">
       <div className=" md:max-w-[70%] w-[100%]">
         <Swiper
           spaceBetween={50}

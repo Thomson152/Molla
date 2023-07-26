@@ -13,7 +13,7 @@ const Model = ({ setOpenModel }) => {
             onClick={() => {
               setOpenModel(false);
             }}
-            className="relative text-2xl  md:left-[35rem] left-[21rem] top-1"
+            className="relative text-2xl  md:left-[35rem] left-[19rem] top-1"
           >
             <FaTimes className="text-base" />
           </button>
